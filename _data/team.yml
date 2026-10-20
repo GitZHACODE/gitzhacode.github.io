@@ -109,6 +109,21 @@ current:
     title: Computational Design
     description: Visualization.
     image: /assets/images/team/Profile_Juan.png
+  - name: Vincent Lin
+    start_year: 2026
+    title: Platform Engineering
+    description: Systems architecture, DevOps and AI infrastructure.
+    image: /assets/images/team/Profile_Vincent.png
+  - name: Lemmy Hu
+    start_year: 2026
+    title: Robotic Engineering
+    description: Digital Twin, Sensor Fusion.
+    image: /assets/images/team/Profile_Lemmy.png
+  - name: Ivan Malkov
+    start_year: 2026
+    title: Computational Design
+    description: Visualisation
+    image: /assets/images/team/Profile_Ivan.png
   - name: Adam Twigger
     start_year:
     title: Techlab Workshop Manager
